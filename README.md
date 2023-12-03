@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**majidbabakh/majidbabakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Majid Babak, a passionate **Front-End Developer** with expertise in JavaScript, TypeScript, React, and Tailwind CSS.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+- JavaScript (ES6+)
+- TypeScript
+- React.js
+- Tailwind CSS
+- HTML5, CSS3
+- ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect!
+- LinkedIn: [Majid Babak's LinkedIn](https://www.linkedin.com/in/majid-babak-aab039156/)
+- Email: majidbabak@gmail.com
+- website: [Majid Babak's Website](https://www.majidbabak.ir/)
+
+Feel free to explore my repositories and projects. If you have any questions or just want to connect, don't hesitate to reach out! 😊
